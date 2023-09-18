@@ -1,0 +1,32 @@
+package FirstRestAssuredTest;
+
+import static io.restassured.RestAssured.*;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+
+import org.testng.annotations.Test;
+
+import io.restassured.response.Response;
+
+
+public class CookiesInfoTest {
+
+	
+	@Test
+	
+	public void validateCookies() {
+		
+		Response res = given()
+		
+		
+		
+		
+		.when()
+		
+		 .get("https://www.google.com/");
+		
+		String cookies=res.getCookie("AEC");
+				
+				System.out.println(cookies);
+	}
+}
