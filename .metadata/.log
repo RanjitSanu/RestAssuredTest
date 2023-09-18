@@ -1214,3 +1214,61 @@ java -ea -classpath C:\Users\Ranjit\eclipse\java-2023-06\eclipse\configuration\o
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 54458 -protocol json -d C:\Users\Ranjit\OneDrive\RestAssured\RestAssuredTest\test-output C:\Users\Ranjit\AppData\Local\Temp\testng-eclipse--321148953\testng-customsuite.xml
 java -ea -classpath C:\Users\Ranjit\eclipse\java-2023-06\eclipse\configuration\org.eclipse.osgi\523\0\.cp\lib\testng-remote.jar:C:\Users\Ranjit\OneDrive\RestAssured\RestAssuredTest\target\test-classes:C:\Users\Ranjit\OneDrive\RestAssured\RestAssuredTest\target\classes:C:\Users\Ranjit\.m2\repository\io\rest-assured\rest-assured\4.5.1\rest-assured-4.5.1.jar:C:\Users\Ranjit\.m2\repository\org\codehaus\groovy\groovy\3.0.9\groovy-3.0.9.jar:C:\Users\Ranjit\.m2\repository\org\codehaus\groovy\groovy-xml\3.0.9\groovy-xml-3.0.9.jar:C:\Users\Ranjit\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar:C:\Users\Ranjit\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar:C:\Users\Ranjit\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Ranjit\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar:C:\Users\Ranjit\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar:C:\Users\Ranjit\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\Ranjit\.m2\repository\io\rest-assured\xml-path\4.5.1\xml-path-4.5.1.jar:C:\Users\Ranjit\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar:C:\Users\Ranjit\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar:C:\Users\Ranjit\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar:C:\Users\Ranjit\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar:C:\Users\Ranjit\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar:C:\Users\Ranjit\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar:C:\Users\Ranjit\.m2\repository\junit\junit\4.10\junit-4.10.jar:C:\Users\Ranjit\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar:C:\Users\Ranjit\.m2\repository\org\apache\poi\poi\4.1.2\poi-4.1.2.jar:C:\Users\Ranjit\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar:C:\Users\Ranjit\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar:C:\Users\Ranjit\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar:C:\Users\Ranjit\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar:C:\Users\Ranjit\.m2\repository\org\apache\poi\poi-ooxml\4.1.2\poi-ooxml-4.1.2.jar:C:\Users\Ranjit\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.2\poi-ooxml-schemas-4.1.2.jar:C:\Users\Ranjit\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar:C:\Users\Ranjit\.m2\repository\org\apache\commons\commons-compress\1.19\commons-compress-1.19.jar:C:\Users\Ranjit\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar:C:\Users\Ranjit\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar:C:\Users\Ranjit\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar:C:\Users\Ranjit\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar:C:\Users\Ranjit\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar:C:\Users\Ranjit\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.2\jackson-databind-2.14.2.jar:C:\Users\Ranjit\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar:C:\Users\Ranjit\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.2\jackson-core-2.14.2.jar org.testng.remote.RemoteTestNG -serport 54458 -protocol json -d C:\Users\Ranjit\OneDrive\RestAssured\RestAssuredTest\test-output C:\Users\Ranjit\AppData\Local\Temp\testng-eclipse--321148953\testng-customsuite.xml
+!SESSION 2023-09-18 19:17:54.179 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-18 19:17:56.306
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-18 19:18:00.852
+!MESSAGE Logback config file: C:\Users\Ranjit\OneDrive\RestAssured\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.200.20230523-2106.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-09-18 19:18:07.862
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-18 19:18:07.862
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-09-18 19:18:13.053
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Ranjit'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 4 4 2023-09-18 19:18:23.820
+!MESSAGE Error
+!STACK 0
+java.util.concurrent.CancellationException
+	at org.eclipse.jface.internal.text.codemining.CancellationExceptionMonitor.isCanceled(CancellationExceptionMonitor.java:33)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:80)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:89)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:67)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
